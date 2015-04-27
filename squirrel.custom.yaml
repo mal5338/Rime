@@ -1,0 +1,26 @@
+# Rime squirrel settings
+# encoding: utf-8
+
+patch:
+ us_keyboard_layout: true
+ style/horizontal: true
+ style/font_face: "SourceHanSansCN-ExtraLight"
+ style/font_point: 16
+ style/color_scheme: luna
+
+ app_options/com.runningwithcrayons.Alfred-2: {}
+ app_options/com.apple.Terminal: {}
+ app_options/com.blacktree.Quicksilver: {}
+ app_options/com.googlecode.iterm2: {}
+ app_options/org.vim.MacVim: {}
+
+
+# 註：預設的配色方案及代碼（指定爲 style/color_scheme ）
+#   碧水 - aqua
+#   青天 - azure
+#   明月 - luna
+#   墨池 - ink
+#   孤寺 - lost_temple
+#   暗堂 - dark_temple
+#   星際我爭霸 - starcraft
+#   谷歌 - google
